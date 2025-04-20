@@ -1,0 +1,6 @@
+[
+    "AI_Reverse_Engineer": {
+      "prio": "medium",
+      "what": "deepseek with cline and ghidra mcp for a automated deobfuscation technique"
+    }
+  ]
