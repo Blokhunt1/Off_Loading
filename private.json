@@ -2,5 +2,10 @@
   "AI_Reverse_Engineer": {
     "prio": "medium",
     "what": "deepseek with cline and ghidra mcp for an automated deobfuscation technique"
-  }
+  },
+  {
+   "Active_Symbols_Dynamic_Debugger": {
+     "prio": "Medium",
+     "what": "debug with renamed symbols of ghidra project"
+   }
 }
