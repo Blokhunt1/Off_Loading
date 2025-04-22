@@ -1,0 +1,6 @@
+{
+  "Change_Teams_Hide_Update": {
+    "prio": "low",
+    "what": "Try and hide the button 'Update' from the Microsoft Teams application"
+  }
+}
